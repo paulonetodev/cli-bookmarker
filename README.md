@@ -71,7 +71,7 @@ cli-bookmarker is able to open specific urls with specific software.
 A simple configuration:
 ```bash
 [urls]
-# launch youtube videos with vlc
+# launch youtube videos with mpv
 youtube.com/watch mpv 
 # launch github with firefox
 github.com firefox
